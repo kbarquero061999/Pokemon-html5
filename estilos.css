@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.cuadrado{
+    background-color: #F5D03A;
+    width: 70%;
+    height: auto;
+    float: left;
+    min-height: 100%;
+}
+.rectangulo{
+    background-color: #F4EAC7;
+    width: 30%;
+    min-height: 100%;
+    float: left;
+    height: auto;
+}
+
+.cuadrado h5{
+    
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: white;
+    font-weight: lighter;
+    margin: 19% 0px 0px 0px;
+    padding-left: 74px;
+}
+.cuadrado h1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 103px;
+    margin: 0px;
+    line-height: 143px;
+    padding-left: 61px;
+
+}
+.cuadrado p{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0px;
+    width: 55%;
+    line-height: 21px;
+    font-size: 0.7em;
+    padding-left: 74px;
+
+}
+.imagen{
+    position: fixed;
+    bottom: 0px;
+    display: block;
+    width: 40%;
+    right: 10%;
+}
